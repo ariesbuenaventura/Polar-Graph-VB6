@@ -188,7 +188,7 @@ Begin VB.Form frmAbout
       Begin VB.Label lblAuthor 
          AutoSize        =   -1  'True
          BackStyle       =   0  'Transparent
-         Caption         =   "Programmed by: Aris Buenaventura"
+Caption         =   "Programmed by: Aries Buenaventura"
          ForeColor       =   &H00FFFFC0&
          Height          =   195
          Left            =   1500
